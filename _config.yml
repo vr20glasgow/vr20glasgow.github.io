@@ -1,8 +1,8 @@
 # Setup
-title:               Lanyon
+title:               VR2020 Glasgow
 tagline:             'A Jekyll theme'
 description:         'Site description'
-url:                 http://alanocallaghan.github.io/vr2020glasgow
+url:                 https://alanocallaghan.github.io/vr2020glasgow
 baseurl:             ''
 paginate:            5
 permalink:           pretty
