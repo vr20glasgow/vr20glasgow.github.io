@@ -5,3 +5,5 @@ permalink: /about/
 ---
 
 Page about the committee.
+
+{% include gallery.html folder="public/img/vr/" %}
