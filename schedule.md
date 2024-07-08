@@ -6,7 +6,8 @@ permalink: /schedule/
 
 Page about the schedule. It's all in one place now, but it doesn't have to be.
 
-{% for day in site.data.schedule %}
+{% assign days = site.data.schedule | sort%}
+{% for day in  site.data.schedule %}
 <h3>
     {{day[1].overview}}
 </h3>
