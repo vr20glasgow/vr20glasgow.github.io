@@ -1,6 +1,8 @@
-- title: Friday first thing
-  description: The description of the thing
-- title: Friday second thing
-  description: The description of the other thing
-- title: Friday third thing
-  description: The description of the other thing
+overview: Friday will be the intro day.
+items:
+  - title: Friday first thing
+    description: The description of the thing
+  - title: Friday second thing
+    description: The description of the other thing
+  - title: Friday third thing
+    description: The description of the other thing

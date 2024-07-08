@@ -1,6 +1,8 @@
-- title: Saturday first thing
-  description: The description of the thing
-- title: Saturday second thing
-  description: The description of the other thing
-- title: Saturday third thing
-  description: The description of the other thing
+overview: Saturday will be parkrun and dinner.
+items:
+  - title: Saturday first thing
+    description: The description of the thing
+  - title: Saturday second thing
+    description: The description of the other thing
+  - title: Saturday third thing
+    description: The description of the other thing
