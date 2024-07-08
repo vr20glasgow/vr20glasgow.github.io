@@ -1,9 +1,7 @@
-{% for day in site.data.schedule %}
 <div class="timeline">
     <div class="outer">
-        {% for item in day[1] %}
+        {% for item in include.day %}
             {% include timeline-card.html title=item.title description=item.description %}
         {% endfor %}
     </div>
 </div>
-{% endfor %}
