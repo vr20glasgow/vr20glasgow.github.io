@@ -2,6 +2,7 @@
 layout: page
 title: Locations
 permalink: /locations/
+sort: 1
 ---
 
 

@@ -2,6 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
+sort: 2
 ---
 
 Page about the schedule. It's all in one place now, but it doesn't have to be.
