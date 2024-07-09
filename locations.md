@@ -6,4 +6,4 @@ sort: 1
 ---
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1VjLcXbc7I7cU1YNcwa9nGTR1UwLG1p4&ehbc=2E312F&noprof=1" width="100%" height="600"/>
+<iframe src="https://www.google.com/maps/d/embed?mid=1VjLcXbc7I7cU1YNcwa9nGTR1UwLG1p4&ehbc=2E312F" width="100%" height="480"></iframe>
