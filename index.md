@@ -10,7 +10,7 @@ and the structure? Maybe link to all the pages and make some shitty jokes?
 
 Can link to important things:
 
-- [locations]({% link _pages/locations.md %})
-- [schedule]({% link _pages/schedule.md %})
+- [locations]({% link locations.md %})
+- [schedule]({% link schedule.md %})
 
 Who knows...?
