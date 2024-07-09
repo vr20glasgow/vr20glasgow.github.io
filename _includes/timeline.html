@@ -80,10 +80,17 @@
 }
 </style>
 
-<div class="timeline">
-    <div class="outer">
-        {% for item in include.day %}
-            {% include timeline-card.html title=item.title description=item.description %}
-        {% endfor %}
-    </div>
+
+<div id="{{include.day.name}}" class="tabcontent">
+
+  <h2> {{include.day.overview}} </h2>
+
+  <div class="timeline">
+      <div class="outer">
+          {% for item in include.day.items %}
+              {% include timeline-card.html title=item.title description=item.description %}
+          {% endfor %}
+      </div>
+  </div>
+
 </div>
