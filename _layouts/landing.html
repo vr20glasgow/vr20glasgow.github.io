@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
+  <head>
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VR20-Glasgow</title>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/public/apple-touch-icon-precomposed.png' | absolute_url }}">
+    <link rel="shortcut icon" href="{{ '/public/favicon.ico' | absolute_url }}">  
     <style>
       body, html {
         margin: 0;
@@ -77,6 +82,38 @@
         .container h2 {
           bottom: 20%;
           font-size: 0.8em; /* Adjust as needed */
+          padding: 5px 10px;
+        }
+      }
+      @media (max-height: 800px) {
+        .container img.overlay {
+          bottom: 40%;
+          /* width: 70px; */
+        }
+        .container h1 {
+          bottom: 25%;
+          /* font-size: 1.2em; */
+          padding: 5px 10px;
+        }
+        .container h2 {
+          bottom: 18%;
+          /* font-size: 0.8em; */
+          padding: 5px 10px;
+        }
+      }
+      @media (max-height: 500px) {
+        .container img.overlay {
+          bottom: 40%;
+          width: 70px;
+        }
+        .container h1 {
+          bottom: 25%;
+          font-size: 1.2em;
+          padding: 5px 10px;
+        }
+        .container h2 {
+          bottom: 20%;
+          font-size: 0.8em;
           padding: 5px 10px;
         }
       }
