@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      body, html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+      }
+      html {
+        font-family: 'Source Sans Pro', sans-serif;
+      }
+      .container {
+        position: relative;
+        width: 100%;
+        height: 100%;
+      }
+      .container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+      .container img.overlay {
+        position: absolute;
+        left: 50%;
+        bottom: 46%;
+        transform: translateX(-50%);
+        width: 150px; /* Adjust as needed */
+        height: auto;
+      }
+      .container h1, .container h2 {
+        position: absolute;
+        font-family: "Oswald", sans-serif;
+        left: 50%;
+        transform: translateX(-50%);
+        color: white;
+        margin: 0;
+        padding: 10px 20px;
+        text-align: center;
+      }
+      .container h1 {
+        bottom: 40%;
+        background-color: rgba(0, 122, 51, 1); /* Semi-transparent background */
+      }
+      .container h2 {
+        bottom: 35%;
+        background-color: rgba(0, 0, 0, 1); /* Semi-transparent background */
+      }
+      @media (max-width: 768px) {
+        .container img.overlay {
+          bottom: 45%;
+          width: 100px; /* Adjust as needed */
+        }
+        .container h1 {
+          bottom: 20%;
+          font-size: 1.5em; /* Adjust as needed */
+          padding: 5px 10px;
+        }
+        .container h2 {
+          bottom: 15%;
+          font-size: 1em; /* Adjust as needed */
+          padding: 5px 10px;
+        }
+      }
+      @media (max-width: 480px) {
+        .container img.overlay {
+          bottom: 45%;
+          width: 80px; /* Adjust as needed */
+        }
+        .container h1 {
+          bottom: 25%;
+          font-size: 1.2em; /* Adjust as needed */
+          padding: 5px 10px;
+        }
+        .container h2 {
+          bottom: 20%;
+          font-size: 0.8em; /* Adjust as needed */
+          padding: 5px 10px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container content">
+      <img src="{{'public/coming-soon.jpg' | absolute_url }}" alt="Coming Soon">
+      <img class="overlay" src="{{ '/public/vr-logo-20th.svg' | absolute_url }}" />
+      <h1>VR20-GLASGOW</h1>
+      <h2>4-6 OCTOBER 2024</h2>
+    </div>
+  </body>
+</html>
