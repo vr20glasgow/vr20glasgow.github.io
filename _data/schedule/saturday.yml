@@ -1,62 +1,61 @@
 overview: |
-  On Saturday, we'll start off with Parkrun, cake, coffee and stretching,
-  and meet for lunch in the Glad cafe. Later on, we'll meet for dinner and
-  entertainment in the Strathclyde University Student Union building.
+  Saturday, is for Parkrun, brunch in the Glad cafe, and dinner with
+  entertainment in the Strathclyde Union.
 name: Saturday
 items:
   - title: Running bus
-    time: 08.30
+    time: "08.30"
     description: |
       Some of our Glasgow team will arrange running buses from the city centre
       to Parkrun.
   - title: Pre-Parkrun photos!
   - title: Queen's Park...run!
-    time: 09.30
+    time: "09.30"
     description: |
       Get your Q at Queen's park! This will be a fun celebration of 20 years
       of Vegan Runners, and also 20 years of Parkrun! Expect plenty of
       volunteers and even more cheering!
   - title: Coffee, cake and stretches at Queen's park baptist church
-    time: 10:00-11:00
+    time: "10:00-11:00"
     description: |
       Keen beans can pop over to the nearby Queen's park baptist church
       for coffee (with plant milks), cake and some stretching, lead by Charlotte [name].
       Come along and try out some of our VRs favourite cake recipes (or possibly
       store-bought cakes, depending on how busy folk are around then).
   - title: Post-Parkrun stretching
-    time: 10:15-11:30
+    time: "10:15-11:30"
     description: |
       To sooth out your aches and pains, we'll be running two guided stretching
       sessions from 10:15-11:00 and 11:00-11:30
   - title: Lunch in the Glad Cafe
-    time: 11:00-12:30
+    time: "11:00-12:30"
     description: |
       After parkrun (and coffee and cake), we'll meet for brunch at the nearby
       Glad Cafe. Food again will be pre-ordered.
   - title: Strathclyde Union --- welcome and drinks
-    time: 17:00
+    time: "17:00"
     description: |
       In the evening we'll reconvene at the Strathclyde Union, meeting initially
       for drinks and a short welcoming ceremony.
   - title: Ceilidh!
-    time: 18:00
+    time: "18:00"
     description: |
       To kick off the festivities, we'll start with a ceilidh! No need to be
       embarrassed as I can almost guarantee at least one of the committee
       members is a worse dancer than you.
   - title: Dinner - ChunkyCat sushi, Sgaia gnocchi, and cake!
-    time: 18:30
+    time: "18:30"
     description: |
       Taking a break from dancing, we'll chow down on some delicious sushi
       from the local vegan caterers ChunkyCat, and gnocchi from Sgaia, another
       local firm.
   - title: Ceilidh!
-    time: 19:15
+    time: "19:15"
     description: |
       We'll continue the ceilidh after eating. Don't be shy, come on and strip
       the willow!
   - title: Drinks, disco, and winding down
-    time: 20:00-22:00
+    time: "20:00-22:00"
     description: |
       The night owls amongst us will relax after dinner with some funky tunes
       and smooth beverages. The early birds will no doubt be getting their Zs

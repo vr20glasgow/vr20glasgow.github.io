@@ -2,42 +2,42 @@ overview: Sunday will be run day!
 name: Sunday
 items:
   - title: "Group photos: round 1"
-    time: 08:00
+    time: "08:00"
     description: |
       For 10k runners and general keen beans, we'll kick off the morning with
       some group photos in George Square.
   - title: 10k cheer squad assemble!
-    time: 08:15
+    time: "08:15"
     description: |
       We'll gather to cheer on the 10k runners at [Somewhere??].
   - title: 10k race beings
-    time: 08:30
+    time: "08:30"
     description: |
       ...and they're off! Expect plenty of runner beans!
   - title: "Group photos: round 2"
-    time: 09:30
+    time: "09:30"
     description: |
       For half marathoners, and any of the lightning fast 10k runners who've
       been and gone by this point, we'll meet for another set of group photos
       in George Square.
   - title: Half marathon cheer squad
-    time: 09:45
+    time: "09:45"
     description: |
       10k runners and any able passers-by will be recruited to cheer on the
       mighty VR half marathoners!
   - title: Half marathon start!
-    time: 10:00
+    time: "10:00"
     description: |
       The VRs will be out in force again for the half marathon, going out
       in waves beginning at 10am.
   - title: Dream machine drop-in
-    time: 10:00
+    time: "10:00"
     description: |
       As runners finish, they can choose to pop into Dream machine to leave their
       stuff, enjoy teas and coffees, chat etc, or head out to join the cheer
       squads!
   - title: All good things...
-    time: 16:00
+    time: "16:00"
     description: |
       Sadly time waits for no-one, and at 4pm our booking at Dream Machine ends.
       Some of the Scottish crew may be around to keep folks company if
