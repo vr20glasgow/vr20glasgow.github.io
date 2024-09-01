@@ -1,9 +1,24 @@
-overview: Friday will be the intro day.
+overview: |
+  On Friday, we'll be having a light day with a short social run to explore the 
+  city as well as food and drink at the 78.
 name: Friday
 items:
-  - title: Friday first thing
-    description: The description of the thing
-  - title: Friday second thing
-    description: The description of the other thing
-  - title: Friday third thing
-    description: The description of the other thing
+  - title: Ice breaker
+    time: 16:00
+    description: |
+      Early on Friday, we'll have a short icebreaker for those visiting, especially
+      for those travelling solo!
+  - title: Social run
+    time: 17:00
+    description: |
+      Meeting outside Kelvingrove Museum, the VR Scotland rep Ciar will lead us
+      on a wee social run around the West End of Glasgow, meeting back at
+      the 78 after about 5km.
+  - title: Dinner and drinks at the 78
+    time: 17:00-21:00
+    description: |
+      At 5pm, we'll have the first sitting of drinks and food at
+      [the 78](https://www.the78.co.uk/), with a second sitting at 7pm.
+      Food will be supplied by 
+      [Antojito's](https://www.facebook.com/antojitosvan/) and will have to be
+      pre-ordered.
