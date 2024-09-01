@@ -78,6 +78,17 @@
   color: #007a33;
   position: relative;
 }
+
+
+.info-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right-side {
+    text-align: right;
+}
+
 </style>
 
 
@@ -88,7 +99,7 @@
   <div class="timeline">
       <div class="outer">
           {% for item in include.day.items %}
-              {% include timeline-card.html title=item.title description=item.description %}
+              {% include timeline-card.html title=item.title description=item.description time=item.time%}
           {% endfor %}
       </div>
   </div>
