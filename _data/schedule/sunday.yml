@@ -5,7 +5,7 @@ name: Sunday
 items:
   - title: "Group photos: round 1"
     time: "08:00"
-    location: George Square
+    location: George Square, G2 1DH
     location_url: https://www.google.co.uk/maps/place/George+Square/@55.8611636,-4.255036,17z/data=!3m1!4b1!4m6!3m5!1s0x488846a03dc8ef07:0x391a5db0a9a19b14!8m2!3d55.8611637!4d-4.2501651!16zL20vMDFyY3c5?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       For 10k runners and general keen beans, we'll kick off the morning with
@@ -18,13 +18,13 @@ items:
       We'll gather to cheer on the 10k runners!
   - title: 10k race beings
     time: "08:30"
-    location: George Square
+    location: George Square, G2 1DH
     location_url: https://www.google.co.uk/maps/place/George+Square/@55.8611636,-4.255036,17z/data=!3m1!4b1!4m6!3m5!1s0x488846a03dc8ef07:0x391a5db0a9a19b14!8m2!3d55.8611637!4d-4.2501651!16zL20vMDFyY3c5?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       ...and they're off! Expect plenty of runner beans!
   - title: "Group photos: round 2"
     time: "09:30"
-    location: George Square
+    location: George Square, G2 1DH
     location_url: https://www.google.co.uk/maps/place/George+Square/@55.8611636,-4.255036,17z/data=!3m1!4b1!4m6!3m5!1s0x488846a03dc8ef07:0x391a5db0a9a19b14!8m2!3d55.8611637!4d-4.2501651!16zL20vMDFyY3c5?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       For half marathoners, and any of the lightning fast 10k runners who've
@@ -39,13 +39,13 @@ items:
       mighty VR half marathoners!
   - title: Half marathon start!
     time: "10:00"
-    location: George Square
+    location: George Square, G2 1DH
     location_url: https://www.google.co.uk/maps/place/George+Square/@55.8611636,-4.255036,17z/data=!3m1!4b1!4m6!3m5!1s0x488846a03dc8ef07:0x391a5db0a9a19b14!8m2!3d55.8611637!4d-4.2501651!16zL20vMDFyY3c5?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       The VRs will be out in force again for the half marathon, going out
       in waves beginning at 10am.
   - title: Dream machine drop-in
-    location: Dream machine
+    location: Dream machine, G40 1PE
     location_url: https://www.google.co.uk/maps/place/The+Dream+Machine/@55.8536057,-4.2394889,17z/data=!3m2!4b1!5s0x488846a56ec89595:0x15ae22432f6da929!4m6!3m5!1s0x4888477820bae56d:0xff1f99e7250caa9f!8m2!3d55.8536057!4d-4.236914!16s%2Fg%2F11grv4ll81?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     time: "10:00"
     description: |
@@ -55,7 +55,7 @@ items:
       Note that non-alcoholic drinks only are allowed for our booking here.
   - title: All good things...
     time: "16:00"
-    location: Dream machine
+    location: Dream machine, G40 1PE
     location_url: https://www.google.co.uk/maps/place/The+Dream+Machine/@55.8536057,-4.2394889,17z/data=!3m2!4b1!5s0x488846a56ec89595:0x15ae22432f6da929!4m6!3m5!1s0x4888477820bae56d:0xff1f99e7250caa9f!8m2!3d55.8536057!4d-4.236914!16s%2Fg%2F11grv4ll81?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       Sadly time waits for no-one, and at 4pm our booking at Dream Machine ends.
