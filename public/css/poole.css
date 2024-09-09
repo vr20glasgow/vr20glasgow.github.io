@@ -448,17 +448,25 @@ a.pagination-item:hover {
 
 /* setting padding based on even or odd */
 .card:nth-child(odd) {
-  padding: 30px !important;
+  padding: 30px;
 }
 .card:nth-child(even) {
   padding: 30px;
 }
+
 /* Global ::before */
 .card::before {
   content: "";
   position: absolute;
   width: 50%;
   border: solid #007a33;
+  z-index: 0; /* to position a links over it... */
+}
+
+/* make sure the links are all clickable */
+.card a {
+  position: relative;
+  z-index: 1;
 }
 
 /* Setting the border of top, bottom, left */
