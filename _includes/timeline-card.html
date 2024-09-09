@@ -2,7 +2,11 @@
     <div class="info">
         <div class="info-header">
             <h4 class="title">{{include.title}}</h4>
-            <div class="right-side">{{include.time}}</div>
+            <div class="right-side">
+                {{include.time}}
+                <br/>
+                <a href="{{include.location_url}}">{{include.location}}</a>
+            </div>
         </div>
         {{include.description}}
     </div>
