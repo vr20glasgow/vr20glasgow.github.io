@@ -1,9 +1,91 @@
-overview: Saturday will be parkrun and dinner.
+overview: |
+  Saturday is for parkrun, brunch in the Glad cafe, and dinner in the Strathclyde Union.
 name: Saturday
 items:
-  - title: Saturday first thing
-    description: The description of the thing
-  - title: Saturday second thing
-    description: The description of the other thing
-  - title: Saturday third thing
-    description: The description of the other thing
+  - title: Running bus
+    time: "08.30"
+    location: TBC
+    location_url:
+    description: |
+      Some of our Glasgow team will lead running buses from the city centre
+      to parkrun. More opportunity for icebreaking, mingling, and a light warmup
+      at an easy and conversational pace!
+  - title: Pre-parkrun photos!
+    location: Queen's park flagpole, G42 8QR
+    location_url: https://www.google.co.uk/maps/place/Queen's+Park+Flagpole/@55.8308182,-4.2726676,17.71z/data=!4m9!1m2!2m1!1squeens+park+bandstand!3m5!1s0x488846f726e637e1:0xd6becb4d78f9ef0f!8m2!3d55.8310422!4d-4.2702474!16s%2Fg%2F11b8t9wkb4?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    time: "09:00"
+    description: |
+      We'll meet just before parkrun to take group photos — let's document
+      this sea of green and black! 💚🖤
+  - title: Queen's park...run!
+    location: Queen's park, G42 8QS
+    location_url: https://www.google.co.uk/maps/place/Queen%E2%80%99s+Park+Baptist+Church/@55.8335866,-4.2710302,18.75z/data=!4m15!1m8!3m7!1s0x488846f4028ca19b:0x671edf3a88a8a419!2sBalvicar+Dr,+Glasgow!3b1!8m2!3d55.8339839!4d-4.270404!16s%2Fg%2F1vgw86cd!3m5!1s0x488846f40490fcaf:0x64b5b0d61c45b457!8m2!3d55.8337914!4d-4.2710977!16s%2Fg%2F1trpksq8?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    time: "09.30"
+    description: |
+      Get your Q at Queen's park! This will be a fun celebration of 20 years
+      of Vegan Runners, and also 20 years of parkrun! Expect plenty of
+      volunteers and even more cheering!
+  - title: Coffee, and cake
+    time: "10:00-11:00"
+    location: Queen's park church, G42 8QS
+    location_url: https://www.google.co.uk/maps/place/Queen%E2%80%99s+Park+Baptist+Church/@55.8335866,-4.2710302,18.75z/data=!4m15!1m8!3m7!1s0x488846f4028ca19b:0x671edf3a88a8a419!2sBalvicar+Dr,+Glasgow!3b1!8m2!3d55.8339839!4d-4.270404!16s%2Fg%2F1vgw86cd!3m5!1s0x488846f40490fcaf:0x64b5b0d61c45b457!8m2!3d55.8337914!4d-4.2710977!16s%2Fg%2F1trpksq8?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      Keen beans can pop over to the nearby Queen's park church
+      for coffee (with plant milks), cake and some stretching, lead by Charlotte.
+      Come along and try out some of our VRs favourite cake recipes (or possibly
+      store-bought cakes, depending on how busy folk are around then).
+  - title: Post-parkrun stretching
+    time: "10:15-11:30"
+    location: Queen's park church, G42 8QS
+    location_url: https://www.google.co.uk/maps/place/Queen%E2%80%99s+Park+Baptist+Church/@55.8335866,-4.2710302,18.75z/data=!4m15!1m8!3m7!1s0x488846f4028ca19b:0x671edf3a88a8a419!2sBalvicar+Dr,+Glasgow!3b1!8m2!3d55.8339839!4d-4.270404!16s%2Fg%2F1vgw86cd!3m5!1s0x488846f40490fcaf:0x64b5b0d61c45b457!8m2!3d55.8337914!4d-4.2710977!16s%2Fg%2F1trpksq8?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      To soothe out your aches and pains, we'll be running two guided stretching
+      sessions from 10:15-10:45 and 11:00-11:30. This needs to be pre-booked
+      as the church has a limited capacity. Booking is available on <a href="https://www.eventbrite.co.uk/e/stretching-for-runners-30-mins-tickets-1006890445427">Eventbrite</a>.
+  - title: Lunch
+    time: "11:00-12:30"
+    location: Glad Cafe, G41 2HG
+    location_url: https://www.google.co.uk/maps/place/The+Glad+Cafe+CIC/@55.8320422,-4.2831207,17z/data=!3m2!4b1!5s0x48884658945ee251:0x5d37f6c4a2635018!4m6!3m5!1s0x4888465894a71791:0x9c5814c7e7019f38!8m2!3d55.8320423!4d-4.2782498!16s%2Fg%2F1hd_c9_lr?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      After parkrun (and coffee and cake), we'll meet for brunch at the nearby
+      Glad Cafe. Food again will be pre-ordered.
+  - title: Welcome and drinks
+    location: Strathclyde Union, G1 1XU
+    location_url: https://www.google.co.uk/maps/place/Strathclyde+Students'+Union/@55.8614661,-4.244938,17z/data=!3m2!4b1!5s0x488846a76afe0a43:0x7911973c7b4006a0!4m6!3m5!1s0x48884714c69acd9b:0x7ad6252961663ff1!8m2!3d55.8614661!4d-4.2423631!16s%2Fg%2F1hc2sl79g?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    time: "17:00"
+    description: |
+      In the evening we'll reconvene at the Strathclyde Union, meeting initially
+      for drinks and a short welcoming ceremony.
+  - title: Ceilidh!
+    time: "18:00"
+    location: Strathclyde Union, G1 1XU
+    location_url: https://www.google.co.uk/maps/place/Strathclyde+Students'+Union/@55.8614661,-4.244938,17z/data=!3m2!4b1!5s0x488846a76afe0a43:0x7911973c7b4006a0!4m6!3m5!1s0x48884714c69acd9b:0x7ad6252961663ff1!8m2!3d55.8614661!4d-4.2423631!16s%2Fg%2F1hc2sl79g?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      To kick off the festivities, we'll start with a ceilidh! No need to be
+      embarrassed as I can almost guarantee at least one of the committee
+      members is a worse dancer than you.
+  - title: "Dinner: sushi, gnocchi, and cake!"
+    location: Strathclyde Union, G1 1XU
+    location_url: https://www.google.co.uk/maps/place/Strathclyde+Students'+Union/@55.8614661,-4.244938,17z/data=!3m2!4b1!5s0x488846a76afe0a43:0x7911973c7b4006a0!4m6!3m5!1s0x48884714c69acd9b:0x7ad6252961663ff1!8m2!3d55.8614661!4d-4.2423631!16s%2Fg%2F1hc2sl79g?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    time: "18:30"
+    description: |
+      Taking a break from dancing, we'll chow down on some delicious sushi
+      from the local vegan caterers ChunkyCat, and gnocchi from Sgaia, another
+      local firm.
+      Booking is required for this; as with Friday's dinner this is 
+      available through <a href="https://membermojo.co.uk/veganrunners/store">membermojo</a>.
+  - title: Ceilidh!
+    location: Strathclyde Union, G1 1XU
+    location_url: https://www.google.co.uk/maps/place/Strathclyde+Students'+Union/@55.8614661,-4.244938,17z/data=!3m2!4b1!5s0x488846a76afe0a43:0x7911973c7b4006a0!4m6!3m5!1s0x48884714c69acd9b:0x7ad6252961663ff1!8m2!3d55.8614661!4d-4.2423631!16s%2Fg%2F1hc2sl79g?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    time: "19:15"
+    description: |
+      We'll continue the ceilidh after eating. Don't be shy, come on and strip
+      the willow!
+  - title: Drinks, disco, and winding down
+    location: Strathclyde Union, G1 1XU
+    location_url: https://www.google.co.uk/maps/place/Strathclyde+Students'+Union/@55.8614661,-4.244938,17z/data=!3m2!4b1!5s0x488846a76afe0a43:0x7911973c7b4006a0!4m6!3m5!1s0x48884714c69acd9b:0x7ad6252961663ff1!8m2!3d55.8614661!4d-4.2423631!16s%2Fg%2F1hc2sl79g?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    time: "20:00-22:00"
+    description: |
+      The night owls amongst us will relax after dinner with some funky tunes
+      and smooth beverages. The early birds will no doubt be getting their Zs
+      in for the morning run!

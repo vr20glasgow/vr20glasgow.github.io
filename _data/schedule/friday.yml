@@ -1,9 +1,38 @@
-overview: Friday will be the intro day.
+overview: |
+  Friday will be a light day, with a short social run to explore the 
+  city, then food and drink at the 78.
 name: Friday
 items:
-  - title: Friday first thing
-    description: The description of the thing
-  - title: Friday second thing
-    description: The description of the other thing
-  - title: Friday third thing
-    description: The description of the other thing
+  - title: Ice breaker
+    time: "16:00"
+    location: The 78, G3 8NU
+    location_url: https://www.google.co.uk/maps/place/The+78/@55.865101,-4.289346,17z/data=!3m1!4b1!4m6!3m5!1s0x488845d4445c263f:0xabad2a25ead7a9df!8m2!3d55.865101!4d-4.2867711!16s%2Fg%2F1th6df3w?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      Early on Friday, we'll have a short icebreaker for those visiting, especially
+      for those travelling solo!
+  - title: Social run
+    time: "17:00"
+    location: Kelvingrove museum, G3 8AG
+    location_url: https://www.google.co.uk/maps/place/Kelvingrove+Art+Gallery+and+Museum/@55.8685891,-4.2931788,17z/data=!3m2!4b1!5s0x488845d16be62e81:0xa7802fbb2223f95c!4m6!3m5!1s0x488845d16be594e9:0x5258b27cf1ca9ffe!8m2!3d55.8685891!4d-4.2906039!16zL20vMDQ0Zzhi?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      Meeting outside Kelvingrove Museum, the VR Scotland rep Ciar will lead us
+      on a wee social run around the West End of Glasgow, meeting back at
+      the 78 after about 5km.
+  - title: Dinner and drinks
+    time: "17:00-21:00"
+    location: The 78, G3 8NU
+    location_url: https://www.google.co.uk/maps/place/The+78/@55.865101,-4.289346,17z/data=!3m1!4b1!4m6!3m5!1s0x488845d4445c263f:0xabad2a25ead7a9df!8m2!3d55.865101!4d-4.2867711!16s%2Fg%2F1th6df3w?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      At 5pm, we'll have the first sitting of drinks and food at
+      the 78, with a second sitting at 7pm.
+      Food will be supplied by 
+      Antojito's and will have to be pre-ordered.
+      Bookings will be available
+      <a href="https://membermojo.co.uk/veganrunners/store">on membermojo</a> .
+  - title: Post-dinner drinks
+    time: "21:00"
+    location: The 78, G3 8NU
+    location_url: https://www.google.co.uk/maps/place/The+78/@55.865101,-4.289346,17z/data=!3m1!4b1!4m6!3m5!1s0x488845d4445c263f:0xabad2a25ead7a9df!8m2!3d55.865101!4d-4.2867711!16s%2Fg%2F1th6df3w?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      After dinner, folks can stay a while to socialise in the 78, and anybody who
+      dined elsewhere or arrived later can join in as well!

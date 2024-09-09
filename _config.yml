@@ -1,19 +1,19 @@
 # Setup
 title:               VR20 Glasgow
-tagline:             "Vegan Runners UK's Scottish 20th anniversary celebration"
+tagline:             "Vegan Runners UK's Scottish 20<sup>th</sup> anniversary celebration"
 description:         "A guide to all of the great fun, running, and people at
                       Vegan Runners UK's 20th anniversary celebration in Glasgow,
                       Scotland October 4th-6th."
-url:                 https://vr20glasgow.github.io
+url:                 https://vr20glasgow.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              VR
+  name:              Vegan Runners
   url:               https://www.veganrunners.org.uk/
-  email:             lorem@ipsum.com
+  email:             alan.ocallaghan@outlook.com
 
 # Gems
 plugins:
