@@ -9,11 +9,16 @@ sort: 4
 
 ### The 78
 
-The 78 is a ground floor pub.
+The 78 is a ground floor pub, but has one step at the entrance.
 
 ### Queen's park baptist church
 
 Queen's park baptist church is a ground floor venue.
+Their [who we are page](https://www.qpbc.org/who-we-are/) lists some accessibility features:
+
+> There are hearing loops installed in the Camphill campus sanctuary and The Point sanctuary. To use the hearing loop, sit downstairs in the centre section of the main space. If you’re unsure, ask one of our service team who will be happy to help you!
+
+> We have accessible toilets – just ask a service team member who can guide you to them.
 
 ### Glad cafe
 
@@ -48,6 +53,12 @@ The Dream Machine mention access on [their event hire page](https://www.dreammac
 Each room is wheelchair accessible for audience members and toilets are
 accessible. Please get in contact with us if you have any other questions
 about accessibility.
+
+## Photography
+
+Please note some photography will be taking place at our events across the
+weekend. Please let [the organisers](mailto:scotland@veganrunners.org.uk) or photographer know if you don’t want to be
+photographed.
 
 ## Dogs
 
