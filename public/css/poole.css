@@ -507,7 +507,7 @@ a.pagination-item:hover {
 
 /* Information about the timeline */
 .info {
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
   /* background: #333; */
   /* color: gray; */

@@ -54,6 +54,10 @@ Each room is wheelchair accessible for audience members and toilets are
 accessible. Please get in contact with us if you have any other questions
 about accessibility.
 
+## Food pre-ordering
+
+Food for the Friday and Saturday have to be booked through [membermojo](https://membermojo.co.uk/veganrunners/store). Drinks and desserts will be available separately at the venues.
+
 ## Photography
 
 Please note some photography will be taking place at our events across the
