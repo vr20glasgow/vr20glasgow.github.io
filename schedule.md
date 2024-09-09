@@ -5,7 +5,6 @@ permalink: /schedule/
 sort: 1
 ---
 
-Page about the schedule. Styling very TBC here.
 
 {% assign days = site.data.schedule | sort %}
 
