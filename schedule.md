@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-sort: 2
+sort: 1
 ---
 
 Page about the schedule. Styling very TBC here.
