@@ -19,24 +19,24 @@ Queen's park baptist church is a ground floor venue.
 
 The Glad cafe says this about accessibility on [their access page](https://www.thegladcafe.co.uk/access/).
 
-"The Glad Cafe is proud to promote equality of opportunity for people with
+> The Glad Cafe is proud to promote equality of opportunity for people with
 disabilities and is committed to improving Deaf and disabled people’s
-access to live music, great food and creative opportunities."
+access to live music, great food and creative opportunities.
 
-"The Glad Cafe prides itself on being wheel-chair friendly. This creates a
+> The Glad Cafe prides itself on being wheel-chair friendly. This creates a
 highly accessible and vibrant location for all members of society to meet
-in forming, a positive impact of engagement on the user."
+in forming, a positive impact of engagement on the user.
 
 ### Strathclyde Union
 
 Strathclyde union building describe their building's accessibility on
 [their access page](https://www.strathunion.com/union/access/#:~:text=Accessibility%20in%20the%20Learning%20%26%20Teaching%20building%20including%20the%20Union.&text=Once%20in%20the%20Union%20this,top%20of%20this%20ramp):
 
-Wheelchair users can access the Union through both the Learning and Teaching entrance and main Strath Union entrance itself, both of which are located on Richmond Street.
+> Wheelchair users can access the Union through both the Learning and Teaching entrance and main Strath Union entrance itself, both of which are located on Richmond Street.
 
-There are 2 access doors at the Union building entrance, the left hand side one with WC access.
+> There are 2 access doors at the Union building entrance, the left hand side one with WC access.
 
-There are ramps and lifts on Level 1 that allow WC access to the Union facilities on Level 2 (where our event will be), as well as gender neutral WC toilets across the building.
+> There are ramps and lifts on Level 1 that allow WC access to the Union facilities on Level 2 [where our dinner and ceilidh will be], as well as gender neutral WC toilets across the building.
 
 A lift is also available.
 
@@ -44,7 +44,7 @@ A lift is also available.
 
 The Dream Machine mention access on [their event hire page](https://www.dreammachineproductions.org/space-hire):
 
-The venue is partially accessible with the aid of our staff.
+> The venue is partially accessible with the aid of our staff.
 Each room is wheelchair accessible for audience members and toilets are
 accessible. Please get in contact with us if you have any other questions
 about accessibility.
