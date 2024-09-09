@@ -10,8 +10,8 @@ including:
 
 - [Locations](/locations.md)
 - [Schedule](/schedule.md)
-- [Photos](/photos.md)
-- [About the organising committee](about.md)
+- [Discounts](/discounts.md)
+- [General event info (accessibility, companion animals, etc)](/general.md)
 
 We can't wait to welcome you to Scotland for a fun and exciting weekend of
 running, socialising, and fundraising for the animals.
