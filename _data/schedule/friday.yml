@@ -27,3 +27,10 @@ items:
       the 78, with a second sitting at 7pm.
       Food will be supplied by 
       Antojito's and will have to be pre-ordered.
+  - title: Post-dinner drinks
+    time: "21:00"
+    location: The 78
+    location_url: https://www.google.co.uk/maps/place/The+78/@55.865101,-4.289346,17z/data=!3m1!4b1!4m6!3m5!1s0x488845d4445c263f:0xabad2a25ead7a9df!8m2!3d55.865101!4d-4.2867711!16s%2Fg%2F1th6df3w?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    description: |
+      After dinner, folks can stay a while to socialise in the 78, and anybody who
+      dined elsewhere or arrived later can join in as well!
