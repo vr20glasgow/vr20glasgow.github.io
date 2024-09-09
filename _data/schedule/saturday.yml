@@ -31,7 +31,7 @@ items:
     location_url: https://www.google.co.uk/maps/place/Queen%E2%80%99s+Park+Baptist+Church/@55.8335866,-4.2710302,18.75z/data=!4m15!1m8!3m7!1s0x488846f4028ca19b:0x671edf3a88a8a419!2sBalvicar+Dr,+Glasgow!3b1!8m2!3d55.8339839!4d-4.270404!16s%2Fg%2F1vgw86cd!3m5!1s0x488846f40490fcaf:0x64b5b0d61c45b457!8m2!3d55.8337914!4d-4.2710977!16s%2Fg%2F1trpksq8?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       Keen beans can pop over to the nearby Queen's park baptist church
-      for coffee (with plant milks), cake and some stretching, lead by Charlotte [name].
+      for coffee (with plant milks), cake and some stretching, lead by Charlotte.
       Come along and try out some of our VRs favourite cake recipes (or possibly
       store-bought cakes, depending on how busy folk are around then).
   - title: Post-parkrun stretching
@@ -40,7 +40,7 @@ items:
     location_url: https://www.google.co.uk/maps/place/Queen%E2%80%99s+Park+Baptist+Church/@55.8335866,-4.2710302,18.75z/data=!4m15!1m8!3m7!1s0x488846f4028ca19b:0x671edf3a88a8a419!2sBalvicar+Dr,+Glasgow!3b1!8m2!3d55.8339839!4d-4.270404!16s%2Fg%2F1vgw86cd!3m5!1s0x488846f40490fcaf:0x64b5b0d61c45b457!8m2!3d55.8337914!4d-4.2710977!16s%2Fg%2F1trpksq8?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       To soothe out your aches and pains, we'll be running two guided stretching
-      sessions from 10:15-11:00 and 11:00-11:30. This needs to be pre-booked
+      sessions from 10:15-10:45 and 11:00-11:30. This needs to be pre-booked
       as the church has a limited capacity.
   - title: Lunch
     time: "11:00-12:30"
