@@ -9,7 +9,9 @@ sort: 4
 
 ### The 78
 
-The 78 is a ground floor pub, but has one step at the entrance.
+The 78 is a ground floor pub, but has one step at the entrance. They have a ramp
+to assist wheelchair access, and inside the building is on one level with one
+accessible toilet on the premise.
 
 ### Queen's park baptist church
 
