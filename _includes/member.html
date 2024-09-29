@@ -1,4 +1,4 @@
-<div style="flex: 0 0 calc(100%/3 - 20px)">
+<div>
     <h3>{{include.name}}</h3>
     <img src="{{ include.name | downcase | prepend: 'public/members/' | append: '.jpeg' | absolute_url }}" width="100%"/>
     <p style="padding-left: 10px;">{{include.description}}</p>
