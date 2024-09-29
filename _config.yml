@@ -4,7 +4,7 @@ tagline:             "Vegan Runners UK's Scottish 20<sup>th</sup> anniversary ce
 description:         "A guide to all of the great fun, running, and people at
                       Vegan Runners UK's 20th anniversary celebration in Glasgow,
                       Scotland October 4th-6th."
-url:                 https://alanocallaghan.github.io/
+url:                 https://vr20glasgow.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
