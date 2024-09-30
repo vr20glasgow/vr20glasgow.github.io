@@ -4,15 +4,15 @@ name: Saturday
 items:
   - title: Running bus
     time: "08.30"
-    location: TBC
-    location_url:
+    location: George Square, G2 1DH
+    location_url: https://www.google.co.uk/maps/place/George+Square/@55.8611636,-4.255036,17z/data=!3m1!4b1!4m6!3m5!1s0x488846a03dc8ef07:0x391a5db0a9a19b14!8m2!3d55.8611637!4d-4.2501651!16zL20vMDFyY3c5?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       Some of our Glasgow team will lead running buses from the city centre
       to parkrun. More opportunity for icebreaking, mingling, and a light warmup
       at an easy and conversational pace!
   - title: Pre-parkrun photos!
-    location: Queen's park flagpole, G42 8QR
-    location_url: https://www.google.co.uk/maps/place/Queen's+Park+Flagpole/@55.8308182,-4.2726676,17.71z/data=!4m9!1m2!2m1!1squeens+park+bandstand!3m5!1s0x488846f726e637e1:0xd6becb4d78f9ef0f!8m2!3d55.8310422!4d-4.2702474!16s%2Fg%2F11b8t9wkb4?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
+    location: Queen's park arena/bandstand, G42 8QR
+    location_url: https://maps.app.goo.gl/ovKePPNP9JKrs3js5
     time: "09:00"
     description: |
       We'll meet just before parkrun to take group photos — let's document
