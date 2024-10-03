@@ -3,13 +3,6 @@ overview: |
   Half Marathon, then regrouping in Dream Machine.
 name: Sunday
 items:
-  - title: "Group photos: round 1"
-    time: "08:00"
-    location: George Square, G2 1DH
-    location_url: https://www.google.co.uk/maps/place/George+Square/@55.8611636,-4.255036,17z/data=!3m1!4b1!4m6!3m5!1s0x488846a03dc8ef07:0x391a5db0a9a19b14!8m2!3d55.8611637!4d-4.2501651!16zL20vMDFyY3c5?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
-    description: |
-      For 10k runners and general keen beans, we'll kick off the morning with
-      some group photos in George Square.
   - title: 10k cheer squad assemble!
     time: "08:15"
     location: International Brigades memorial, G5 9DA
@@ -22,14 +15,6 @@ items:
     location_url: https://www.google.co.uk/maps/place/George+Square/@55.8611636,-4.255036,17z/data=!3m1!4b1!4m6!3m5!1s0x488846a03dc8ef07:0x391a5db0a9a19b14!8m2!3d55.8611637!4d-4.2501651!16zL20vMDFyY3c5?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
     description: |
       ...and they're off! Expect plenty of runner beans!
-  - title: "Group photos: round 2"
-    time: "09:30"
-    location: George Square, G2 1DH
-    location_url: https://www.google.co.uk/maps/place/George+Square/@55.8611636,-4.255036,17z/data=!3m1!4b1!4m6!3m5!1s0x488846a03dc8ef07:0x391a5db0a9a19b14!8m2!3d55.8611637!4d-4.2501651!16zL20vMDFyY3c5?hl=en&entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D
-    description: |
-      For half marathoners, and any of the lightning fast 10k runners who've
-      been and gone by this point, we'll meet for another set of group photos
-      in George Square.
   - title: Half marathon cheer squad
     time: "09:45"
     location: International Brigades memorial, G5 9DA
